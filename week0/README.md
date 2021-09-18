@@ -6,6 +6,13 @@
 ## Command Line Interface & Linux Command
 - [why cli & linux](https://velog.io/@hwanieee/CLI-%EC%99%80-Github)
 
+## How to clone repository from Github
+- 각 repository의 clone url은 repository -> code -> https 에서 copy할 수 있다.
+```
+$ git clone https://github.com/DAMLstudy/Assignments.git
+```
+
+
 ## How to push a code to Github
 - 항상 모든 코드 작업은 main branch에서 pull 한 후 진행 합니다.
 ```
