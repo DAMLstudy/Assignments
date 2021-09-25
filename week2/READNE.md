@@ -34,10 +34,9 @@ irisData의 키 :  dict_keys(['data', 'target', 'frame', 'target_names', 'DESCR'
 
 ### Problem 2 : Pandas DataFrame으로 구성
 다음과 같이 데이터프레임을 생성 후 출력하세요.
- - Answer  
-```
-사진
-``` 
+ - Answer
+ 
+![ans1](https://user-images.githubusercontent.com/90343268/134770341-0babbef2-effb-4b49-9c40-d337419f89c8.png)
 
 
 ### Problem 3 : 머신러닝 구현
