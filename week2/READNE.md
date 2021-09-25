@@ -59,5 +59,6 @@ DecisionTreeClassifier()
    - Example answer  
 ```python
 훈련 데이터 정확도 :  1.0 테스트 데이터셋 정확도 :  0.9666666666666667
+# Try yourslef, your own result
 ``` 
  
